@@ -1,7 +1,7 @@
 const data = {
     personalInfo: {
         name: "Albritch Benj Solis Tragico",
-        title: "BS Information Technology Student",
+        title: "BS Information Technology Student | IT3R11",
         email: "albritchbnjtragico@gmail.com",
         phone: "09474940591",
         address: "Cagayan De Oro, Misamis Oriental, Philippines",
@@ -53,3 +53,4 @@ const data = {
         }
     ]
 };
+
