@@ -1,0 +1,6 @@
+expo-app/
+node_modules/
+.expo/
+.vercel/
+dist/
+.env
